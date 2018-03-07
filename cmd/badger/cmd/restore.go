@@ -21,7 +21,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/dgraph-io/badger"
+	"github.com/allenluce/badger"
 	"github.com/spf13/cobra"
 )
 

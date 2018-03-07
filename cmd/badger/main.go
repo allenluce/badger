@@ -16,7 +16,7 @@
 
 package main
 
-import "github.com/dgraph-io/badger/cmd/badger/cmd"
+import "github.com/allenluce/badger/cmd/badger/cmd"
 
 func main() {
 	cmd.Execute()

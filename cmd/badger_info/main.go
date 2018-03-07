@@ -36,8 +36,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dgraph-io/badger"
-	"github.com/dgraph-io/badger/table"
+	"github.com/allenluce/badger"
+	"github.com/allenluce/badger/table"
 )
 
 func main() {

@@ -22,8 +22,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dgraph-io/badger/table"
-	"github.com/dgraph-io/badger/y"
+	"github.com/allenluce/badger/table"
+	"github.com/allenluce/badger/y"
 	"github.com/pkg/errors"
 )
 

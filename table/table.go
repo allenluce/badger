@@ -28,8 +28,8 @@ import (
 	"sync/atomic"
 
 	"github.com/AndreasBriese/bbloom"
-	"github.com/dgraph-io/badger/options"
-	"github.com/dgraph-io/badger/y"
+	"github.com/allenluce/badger/options"
+	"github.com/allenluce/badger/y"
 	"github.com/pkg/errors"
 )
 

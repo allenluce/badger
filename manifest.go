@@ -27,8 +27,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/dgraph-io/badger/protos"
-	"github.com/dgraph-io/badger/y"
+	"github.com/allenluce/badger/protos"
+	"github.com/allenluce/badger/y"
 	"github.com/pkg/errors"
 )
 
